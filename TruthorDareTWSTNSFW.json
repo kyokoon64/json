@@ -66,6 +66,7 @@
         "Name <range[1-5]> turn offs",
         "Name <range[1-5]> turn ons",
         "Who have you always wanted to hook up with but you know they're way out of your league?",
+        "Surprise! You have been granted with 'one free reroll' to a future truth or dare. Use it wisely!",
         "<local>, who do you like here the most?"
     ],
     "Dares": [
@@ -95,7 +96,7 @@
         "What does your orgasm sound like? Moan for us",
         "For the next round, sit in <player>’s lap and grind down on their groin.",
         "You have one minute to get <player> as aroused as possible, using nothing but your mouth, go!",
-        "<Player> gets to pick your dare, but it must be sexually provocative.",
+        "<player> gets to pick your dare, but it must be sexually provocative.",
         "You must orally pleasure <player> in front of the other players; if they or you decline, you both must remove an article of clothing.",
         "Bite the least masochistic player in the room.",
         "If you currently have the ‘dom/top’ tag equipped, you must bottom penetratively to one player of your choosing. If non applicable, reroll.",
@@ -108,6 +109,20 @@
         "If you have a partner who is not in this group, call them and tell them something sexy. If single, reroll",
         "Show the group your most recent NSFW photo saved on your phone",
         "Size contest! Whip out your dick and compare it's size with <player>. If non applicable, reroll",
+        "WHIP YOUR COCK/PUSSY OUT!!! And keep it out until your next turn.",
+        "Show the group any scars you’ve obtained in a sexual setting or encounter; if non applicable, choose two players to give you hickies anywhere they please for one round",
+        "Show off your skills! Ride <player>’s thigh to the best of your abilities.",
+        "Make out with <player> for one minute, as sloppily as you physically can.",
+        "For until they say to stop, sit in the lap of one player of your choosing.",
+        "Degrade <player> to the best of your abilities, go!",
+        "Praise <player> to the best of your abilities, go!",
+        "Surprise! You have been granted with 'one free reroll' to a future truth or dare. Use it wisely!",
+        "One volunteer must gag you with their fingers for one round, rendering you silent.",
+        "<player> has thirty seconds to see if they can cause you to make a noise, try to stay silent!",
+        "Aggressively hit on <player>.",
+        "It’s getting too horny in here.. Have a staring contest with <player>! Loser has to roll only dares for three rounds. If avatar cannot blink, speak when you blink in real life or rock paper scissors. Play fair!",
+        "",
+        "",
         "Let <player> slap your ass <range[1-5]> times."
     ]
 }
